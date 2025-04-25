@@ -13,7 +13,7 @@ A full-stack Web3 application deployed to the Sepolia testnet. Users can connect
 [Click here to try it out](https://arachne-ruddy.vercel.app)
 
 ## 📜 Smart Contract
-- Deployed to Sepolia: [`0xdB53fF65d3eDa8dD7ce94e97C81281555Ce1cFA9`](0xdB53fF65d3eDa8dD7ce94e97C81281555Ce1cFA9)
+- Deployed to [Sepolia](https://sepolia.etherscan.io/address/0xdB53fF65d3eDa8dD7ce94e97C81281555Ce1cFA9)
 - Token: `ARCH`
 
 ## 💡 Features
